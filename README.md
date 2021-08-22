@@ -1,5 +1,6 @@
 # boofar
 Wambo
+// Ich mache es gerade auf dieser Seite zum ersten mal
 <html>
     <body>
     <form action="<?php echo $_SERVER ["PHP_SELF"] ?>" method="post">
