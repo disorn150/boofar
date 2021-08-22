@@ -1,4 +1,5 @@
 # boofar
+Wambo
 <html>
     <body>
     <form action="<?php echo $_SERVER ["PHP_SELF"] ?>" method="post">
@@ -72,8 +73,6 @@ $ende=22;
 
     </body>
 </html>        
-Wambo
-
 
 //was nicht geklappt hat
 
